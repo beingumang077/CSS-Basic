@@ -1,0 +1,1 @@
+I used some basic CSS properties to beautify the HTML file. 
